@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.jlo.prueba.pase.PruebaPaseApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.839 s -- in com.jlo.prueba.pase.PruebaPaseApplicationTests
